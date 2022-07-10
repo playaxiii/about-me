@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Avinash Sharma
-- 👀 I’m interested in Android Development, Content Creator, Java, Kotlin & Learning
+- 👀 I’m interested in <Android Development>, <Content Creator>, <Java>, <Kotlin> & Learning...
 - 🌱 I’m currently learning Android Development
 - 💞️ I’m looking to collaborate So we both can learn
 - 📫 Email - Play.axiii@gmail.com
