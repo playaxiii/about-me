@@ -4,3 +4,4 @@
 - 💞️ I’m looking to collaborate So we both can learn
 - 📫 Email - Play.axiii@gmail.com
 - Website - https://axiii.in/
+- LinkedIn - https://www.linkedin.com/in/axiii/
